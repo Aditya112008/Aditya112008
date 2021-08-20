@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Gokarn
-- 👀 I’m interested in coding
+- 👀 I’m a coding proficient at WhitehatJr 
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
